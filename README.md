@@ -1,4 +1,4 @@
-# myBlog
+# Blog
 Blog gerado com [Jekyll](https://jekyllrb.com/)
 
 ## Requisitos para rodar o projeto:
