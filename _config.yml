@@ -25,6 +25,10 @@ baseurl: ""
 twitter_username: jekyllrb
 github_username:  jekyll
 
+sass:
+  sass_dir: _sass
+  style: compressed
+
 # Build settings
 markdown: kramdown
 theme: minima
